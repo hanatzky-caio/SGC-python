@@ -2,7 +2,9 @@ from flask import Flask, render_template, request, redirect, url_for, flash
 from database import db, configurar_banco
 from models import Produto
 
-app = Flask(__name__)
+app = Flask(__name__) 
+
+
 
 app.config['SECRET_KEY'] = 'caio-chave-flash'
 
