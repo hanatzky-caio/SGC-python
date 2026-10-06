@@ -106,7 +106,7 @@ Projeto desenvolvido para fins educacionais.
 - Turma: TIN19
 - Curso: Python para Desenvolvimento Web
 - Ano: 2026
-
+- E-mail para envios: cesarlimacaio@gmail.com
 
 ---
 
